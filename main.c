@@ -10,11 +10,11 @@
 
 
 #include <Windows.h>
-#include <iostream>
+#include <stdlib.h>
+#include <stdio.h>
 #include <filesystem>
 #include <thread>
 
-#include <gdiplus.h>
 
 #define BitBlyat BitBlt
 #define DLLEXPORT __declspec(dllexport)
